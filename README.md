@@ -1,0 +1,1 @@
+Simple script to clean up the "Mail Downloads" folder when using Mail.app
