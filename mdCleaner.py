@@ -15,6 +15,7 @@ def cleaner(base):
 
 def main():
     cleaner(base)
+    print("Attachments have been deleted")
 
 
 if __name__ == '__main__':
